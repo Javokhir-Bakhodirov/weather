@@ -1,0 +1,4 @@
+#theme-toggle:checked + label {
+	left: calc(100% - 30px);
+	transform: rotate(360deg);
+}

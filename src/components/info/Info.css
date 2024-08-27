@@ -1,0 +1,3 @@
+.info__icon {
+	@apply w-[60px] h-[60px] text-indigo-600;
+}
